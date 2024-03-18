@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\rimod\OneDrive\Рабочий стол\c_labs\VisualStudioProjects\OpenGlProject\main.cpp(196,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\rimod\OneDrive\Рабочий стол\c_labs\VisualStudioProjects\OpenGlProject\main.cpp(277,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\rimod\OneDrive\Рабочий стол\c_labs\VisualStudioProjects\OpenGlProject\main.cpp(278,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\rimod\OneDrive\Рабочий стол\c_labs\VisualStudioProjects\OpenGlProject\main.cpp(282,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\rimod\OneDrive\Рабочий стол\c_labs\VisualStudioProjects\OpenGlProject\main.cpp(283,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\rimod\OneDrive\Рабочий стол\c_labs\VisualStudioProjects\OpenGlProject\main.cpp(284,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\rimod\OneDrive\Рабочий стол\c_labs\VisualStudioProjects\OpenGlProject\main.cpp(285,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  OpenGlProject.vcxproj -> C:\Users\rimod\OneDrive\Рабочий стол\c_labs\VisualStudioProjects\OpenGlProject\x64\Debug\OpenGLProject.exe
